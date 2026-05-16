@@ -94,4 +94,4 @@ http://localhost:8080/swagger-ui/index.html
 
 ## Лицензия
 
-MIT
+BSD-3
